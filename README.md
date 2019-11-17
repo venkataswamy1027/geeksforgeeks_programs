@@ -1,2 +1,2 @@
 # geeksforgeeks_programs
-practice programs  geeksforgeeks topic wise
+practice programs on geeksforgeeks topic wise
